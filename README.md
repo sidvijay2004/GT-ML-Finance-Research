@@ -33,7 +33,7 @@ Use the git clone command followed by the repository URL to clone the repository
 bash
 Copy code
 ```
-git clone [[https://github.com/username/repository-name.git](https://github.com/sidvijay2004/GT-ML-Finance-Research.git)](https://github.com/sidvijay2004/GT-ML-Finance-Research.git)
+git clone https://github.com/sidvijay2004/GT-ML-Finance-Research.git
 ```
 Navigate to the Project Directory:
 
@@ -41,7 +41,7 @@ Use the cd command to navigate into the project directory. For example:
 bash
 Copy code
 ```
-cd repository-name
+cd GT-ML-Finance-Research
 ```
 Set Up Python Environment:
 
