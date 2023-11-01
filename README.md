@@ -1,40 +1,6 @@
 # Asset Pricing Subteam Project
 VIP-subteam for ML in finance: Intrinsic Value Asset Pricing
 
-Link to Original Paper:
-https://www.sciencedirect.com/science/article/pii/S1877050920307924
-
-Results:
-https://docs.google.com/presentation/d/1_reASHIoGcEI0O-oOCECpgPsAvH7c2AUT-sy7lMXmTc/edit?usp=sharing
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -66,13 +32,17 @@ Open the terminal on your local machine.
 Use the git clone command followed by the repository URL to clone the repository. For example:
 bash
 Copy code
-git clone [https://github.com/username/repository-name.git](https://github.com/sidvijay2004/GT-ML-Finance-Research.git)
+```
+git clone [[https://github.com/username/repository-name.git](https://github.com/sidvijay2004/GT-ML-Finance-Research.git)](https://github.com/sidvijay2004/GT-ML-Finance-Research.git)
+```
 Navigate to the Project Directory:
 
 Use the cd command to navigate into the project directory. For example:
 bash
 Copy code
+```
 cd repository-name
+```
 Set Up Python Environment:
 
 Ensure that Python is installed on your system.
