@@ -13,7 +13,6 @@ To find a more detailed description of our project, click [here](https://docs.go
 To view the results of our project, click [here](https://docs.google.com/presentation/d/1_reASHIoGcEI0O-oOCECpgPsAvH7c2AUT-sy7lMXmTc/edit?usp=sharing
 )
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- GETTING STARTED -->
@@ -54,4 +53,3 @@ Once Jupyter Notebook is launched, your default web browser will open with the J
 Navigate to the notebook file (with the .ipynb extension) you want to view and click on it to open.
 
 By following these steps, you can clone the GitHub project, set up the Python environment, install the necessary dependencies, and view the Jupyter Notebook files. 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
