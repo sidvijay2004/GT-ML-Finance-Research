@@ -29,17 +29,13 @@ To view the results of our project, click [here](https://docs.google.com/present
 Clone the Repository:
 
 Open the terminal on your local machine.
-Use the git clone command followed by the repository URL to clone the repository. For example:
-bash
-Copy code
+Use the git clone command followed by the repository URL to clone the repository. 
 ```
 git clone https://github.com/sidvijay2004/GT-ML-Finance-Research.git
 ```
 Navigate to the Project Directory:
 
-Use the cd command to navigate into the project directory. For example:
-bash
-Copy code
+Use the cd command to navigate into the project directory. 
 ```
 cd GT-ML-Finance-Research
 ```
